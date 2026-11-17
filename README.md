@@ -2,7 +2,7 @@
 
 The home page of Science Readers: https://sciencereaders.github.io
 
-Science Readers builds visual learning tools for learners with no tutor to show them why a rule is true, designed for shared, low-data phones. Its first module is **[Geometry Reader](https://sciencereaders.github.io/geometryreader/)** ([public showcase](https://github.com/sciencereaders/geometryreader)).
+Science Readers builds visual learning tools for learners with no tutor to show them why a rule is true, designed for shared, low-data phones. It is organised in wings, one per subject. The Mathematics wing holds **[Geometry Reader](https://sciencereaders.github.io/geometryreader/)** ([public showcase](https://github.com/sciencereaders/geometryreader)), the first module, and Number Reader, in development and not yet released.
 
 One static page, no scripts, no trackers, fonts self-hosted.
 
